@@ -1,4 +1,4 @@
 # FERI - DEM
 
-## Description
+### Description
 It's a student project about ....
