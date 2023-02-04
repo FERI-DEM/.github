@@ -3,7 +3,7 @@
 ### Description
 It's a student project about ....
 
-## Default Repository branches
+## Branches
 Every code repositroy needs at least a `main` and `development` branch. 
 
 ## Branch naming conventions
