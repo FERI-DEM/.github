@@ -44,7 +44,7 @@ Use one of those 3 types as prefix for every commit
   `chore: refactor login page`
 
 ## Workflow
-- pull the latest changes from `develoment`
+- pull the latest changes to `develoment`
 - create new branch from `development`
 - commit your changes
 - merge new changes from development to your branch (optional)
