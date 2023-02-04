@@ -49,4 +49,4 @@ Use one of those 3 types as prefix for every commit
 - commit your changes
 - merge new changes from development to your branch (optional)
 - push your branch to github
-- go to github and open a pull request
+- go to github and open a pull request (your branch should merge into `development`)
