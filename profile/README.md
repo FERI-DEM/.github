@@ -4,7 +4,7 @@
 It's a student project about ....
 
 ## Default Repository branches
-Every code repositroy needs atleast a `main` and `development` branch. 
+Every code repositroy needs at least a `main` and `development` branch. 
 
 ## Branch naming conventions
 - your_name/feat/ticket_name/branch_name
