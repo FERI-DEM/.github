@@ -3,10 +3,6 @@
 ### Description
 It's a student project about ....
 
-## Architecture
-
-<image src="https://user-images.githubusercontent.com/73199603/218175807-71214bff-3b4b-4562-aa61-0a680a90b171.png" width=500 height=600/>
-
 ## Branches
 Every code repositroy needs at least a `main` and `development` branch. 
 
