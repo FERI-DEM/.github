@@ -3,16 +3,16 @@
 ### Description
 It's a student project about ....
 
+## Architecture
+
+<image src="https://user-images.githubusercontent.com/73199603/218175807-71214bff-3b4b-4562-aa61-0a680a90b171.png" width=500 height=600/>
+
 ## Branches
 Every code repositroy needs at least a `main` and `development` branch. 
 
 The `main` branch should contain the latest, stable and production-ready version of the code.
 
 The `development` branch, on the other hand, is used for ongoing work on new features and bug fixes. It is a branch separate from the main branch and provides a space for developers to make changes, test them and merge them into the main branch when they are ready for release.
-
-## Architecture
-
-<image src="https://user-images.githubusercontent.com/73199603/218175807-71214bff-3b4b-4562-aa61-0a680a90b171.png" width=500 height=600/>
 
 
 ## Branch naming conventions
