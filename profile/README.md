@@ -1,4 +1,4 @@
-# FERI - DEM
+# Watt4cast
 
 ### Description
 It's a student project about ....
